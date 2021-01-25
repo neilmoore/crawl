@@ -706,7 +706,7 @@ ENDMAP
 NAME:   lemuel_lich_library
 DEPTH:  Zot, !Zot:$
 TAGS:   no_monster_gen
-MONS:   flying skull, lich, ancient lich / dread lich, necromancer,
+MONS:   flying skull, lich, ancient lich / dread lich, necromancer
 MONS:   vampire mage
 ITEM:   any book mimic:10 w:20 / any scroll mimic:10
 SUBST:  w:w?
